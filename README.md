@@ -1,3 +1,7 @@
+## Overview:
+
+AtliQ Hardware is a company that manufactures and sells hardware such as PCs, Mouses, Printers, and so on. It sells hardware to different customers, such as Best Buy, Croma, Amazon, Flipkart, etc. These customers or stores sell the products to consumers or people. The company stakeholders want sales and finance analytics reports to enhance their business possibilities.
+
 ## Sales Report :
 
 
