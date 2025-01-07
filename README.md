@@ -22,7 +22,7 @@ AtliQ Hardware is a company that manufactures and sells hardware such as PCs, Mo
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/saleemhananbaji/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/saleemhananbaji/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/saleemhananbaji/AtliQ-Hardware-Reports/blob/main/P%26L%20Statement%20by%20Fiscal%20Years.pdf)_ & _[Months](https://github.com/saleemhananbaji/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/saleemhananbaji/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Market.pdf)_
 
