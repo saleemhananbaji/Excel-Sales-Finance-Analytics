@@ -26,7 +26,7 @@ AtliQ Hardware is a company that manufactures and sells hardware such as PCs, Mo
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/saleemhananbaji/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Market.pdf)_
 
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+- **Purpose of finance analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
 - **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
 
